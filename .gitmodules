@@ -1,0 +1,9 @@
+[submodule "deps/bullet3"]
+	path = deps/bullet3
+	url = https://github.com/ylabbe/bullet3.git
+[submodule "deps/job-runner"]
+	path = deps/job-runner
+	url = https://github.com/ylabbe/job-runner
+[submodule "deps/urdfpytorch"]
+	path = deps/urdfpytorch
+	url = https://github.com/ylabbe/robopose_urdfpytorch
