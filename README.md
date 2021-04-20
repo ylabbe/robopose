@@ -13,7 +13,7 @@ Single-view robot pose and joint angle estimation via render & compare
 CVPR: Conference on Computer Vision and Pattern Recognition, 2021 (Oral)
 <br>
 <br>
-<a href="https://arxiv.org/abs/xxxx.xxxx">[Paper]</a>
+<a href="https://arxiv.org/abs/2104.09359">[Paper]</a>
 <a href="https://www.di.ens.fr/willow/research/robopose/">[Project page]</a>
 <!-- <a href="https://youtu.be/xxxx">[Video (5 min)]</a> -->
 <a href="https://youtu.be/3yzwS99sgLI">[Supplementary Video]</a>
